@@ -147,4 +147,7 @@ Every template: TypeScript, App Router, Tailwind CSS, fully responsive, Vercel-d
 
 **Get the full bundle → [cenkkurtoglu.com](https://cenkkurtoglu.com)**
 
+Full showcase with live demos for all 20 templates:  
+**[github.com/cekuu35/nextjs-website-templates](https://github.com/cekuu35/nextjs-website-templates)**
+
 Questions? Open an issue or reach out via the site.
