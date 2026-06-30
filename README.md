@@ -6,6 +6,11 @@ A clean, minimal, production-ready personal portfolio and CV template built with
 
 ![Portfolio Template Preview](./preview-full.png)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/cekuu35/free-nextjs-cv-template) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-20--personal--cv.vercel.app-000?style=for-the-badge)](https://20-personal-cv.vercel.app) &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](./LICENSE)
+
+> **Free & MIT-licensed.** Use it for your own portfolio, personal or commercial — no attribution required.
+> Need a **business** site (SaaS, agency, clinic, real estate, law firm)? **[20+ premium Next.js + Tailwind templates → cenkkurtoglu.com](https://cenkkurtoglu.com)** ($49 each / all for $299).
+
 ---
 
 ## Features
