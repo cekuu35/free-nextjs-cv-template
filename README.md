@@ -1,6 +1,6 @@
 # Free Next.js 15 Personal Portfolio / CV Template — Tailwind CSS, Multi-Page, TypeScript
 
-A clean, minimal, production-ready personal portfolio and CV template built with **Next.js 15**, **Tailwind CSS v3**, and **TypeScript**. Deploy to Vercel in minutes. Fully customize every word and link by editing a single config file.
+A clean, minimal personal portfolio and CV starter built with **Next.js 15**, **Tailwind CSS v3**, and **TypeScript**. Deploy to Vercel in minutes and customize the included content from a central config file.
 
 **Live Demo:** [https://20-personal-cv.vercel.app](https://20-personal-cv.vercel.app)
 
@@ -9,7 +9,7 @@ A clean, minimal, production-ready personal portfolio and CV template built with
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/cekuu35/free-nextjs-cv-template) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-20--personal--cv.vercel.app-000?style=for-the-badge)](https://20-personal-cv.vercel.app) &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](./LICENSE)
 
 > **Free & MIT-licensed.** Use it for your own portfolio, personal or commercial — no attribution required.
-> Need a **business** site (SaaS, agency, clinic, real estate, law firm)? **[20+ premium Next.js + Tailwind templates → cenkkurtoglu.com](https://cenkkurtoglu.com)** ($49 each / all for $299).
+> Need a **business-site starting point**? **[Browse the 20-template catalog](https://cenkkurtoglu.com/templates)** or **[get the current $79 bundle on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=free_cv_template)**.
 
 ---
 
@@ -17,7 +17,7 @@ A clean, minimal, production-ready personal portfolio and CV template built with
 
 - **Multi-page layout** — Home, About, Portfolio, Blog, Contact (each as a dedicated route)
 - **Single-file customization** — all content lives in `src/data/config.ts`; no need to hunt through components
-- **Working contact form** — API route included, drop-in ready for your email provider
+- **Contact form scaffold** — client/server validation is included; connect an email provider or database before production delivery
 - **Static Site Generation (SSG)** — blazing-fast, zero server cost, deploys perfectly on Vercel / Netlify / GitHub Pages
 - **SEO-ready** — per-page `<title>` and `<meta description>` generated from config
 - **TypeScript strict mode** — zero `any`, fully typed config
@@ -121,7 +121,7 @@ MIT — free for personal and commercial use. See [LICENSE](./LICENSE).
 
 This template is a taste of the full collection. If you need a **production-ready site for a real business** — not just a personal CV — check out the premium pack:
 
-### 20 Premium Next.js + Tailwind Templates — $49 each or all 20 for $299
+### 20 Next.js + Tailwind starter templates — current bundle price: $79
 
 Includes complete, deployable sites for:
 
@@ -148,9 +148,9 @@ Includes complete, deployable sites for:
 | 19 | Law Firm | Professional services |
 | 20 | Personal CV (this one) | Personal / freelance |
 
-Every template: TypeScript, App Router, Tailwind CSS, fully responsive, Vercel-deployable, single-config customization.
+The separate bundle contains 20 responsive TypeScript, App Router, and Tailwind CSS starter sites. Review the checkout and included README files for the exact delivered versions, license scope, and integration requirements.
 
-**Get the full bundle → [cenkkurtoglu.com](https://cenkkurtoglu.com)**
+**[Browse the catalog](https://cenkkurtoglu.com/templates)** · **[Get the current $79 bundle on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=free_cv_template)**
 
 Full showcase with live demos for all 20 templates:  
 **[github.com/cekuu35/nextjs-website-templates](https://github.com/cekuu35/nextjs-website-templates)**
