@@ -2,11 +2,11 @@
 
 A clean, minimal personal portfolio and CV starter built with **Next.js 15**, **Tailwind CSS v3**, and **TypeScript**. Deploy to Vercel in minutes and customize the included content from a central config file.
 
-**Live Demo:** [https://20-personal-cv.vercel.app](https://20-personal-cv.vercel.app)
+**Live Demo:** [https://free-nextjs-cv-template.vercel.app](https://free-nextjs-cv-template.vercel.app)
 
 ![Portfolio Template Preview](./preview-full.png)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/cekuu35/free-nextjs-cv-template) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-20--personal--cv.vercel.app-000?style=for-the-badge)](https://20-personal-cv.vercel.app) &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](./LICENSE)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/cekuu35/free-nextjs-cv-template) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-20--personal--cv.vercel.app-000?style=for-the-badge)](https://free-nextjs-cv-template.vercel.app) &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](./LICENSE)
 
 > **Free & MIT-licensed.** Use it for your own portfolio, personal or commercial — no attribution required.
 > Need a **business-site starting point**? **[Browse the 20-template catalog](https://cenkkurtoglu.com/templates)** or **[get the current $79 bundle on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=free_cv_template)**.
