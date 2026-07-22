@@ -67,13 +67,13 @@ export default function ContactForm() {
         <div className="w-12 h-12 rounded-full bg-emerald-100 flex items-center justify-center mx-auto mb-4 text-emerald-600 text-xl">
           ✓
         </div>
-        <h3 className="font-semibold text-lg mb-2 text-emerald-800">Message sent!</h3>
+        <h3 className="font-semibold text-lg mb-2 text-emerald-800">Demo submission validated</h3>
         <p className="text-emerald-700 text-sm">{serverMsg}</p>
         <button
           onClick={() => setStatus('idle')}
           className="mt-6 text-sm font-medium text-emerald-700 hover:underline"
         >
-          Send another message
+          Try another message
         </button>
       </div>
     );
@@ -173,13 +173,17 @@ export default function ContactForm() {
         )}
       </div>
 
+      <p className="text-xs text-neutral-500 text-center">
+        Demo only: input is validated but not delivered until you connect an email provider or database.
+      </p>
+
       {/* Submit */}
       <button
         type="submit"
         disabled={status === 'loading'}
         className="w-full accent-bg text-white py-3.5 rounded-xl font-semibold hover:opacity-90 disabled:opacity-50 transition"
       >
-        {status === 'loading' ? 'Sending…' : 'Send message'}
+        {status === 'loading' ? 'Checking…' : 'Try demo form'}
       </button>
 
       {/* Server error */}
