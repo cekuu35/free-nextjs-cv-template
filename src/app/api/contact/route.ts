@@ -31,7 +31,11 @@ export async function POST(request: Request) {
     // The validated { name, email, message } is ready to forward to your
     // email provider or database here.
 
-    return Response.json({ ok: true, message: 'Thanks! I will be in touch soon.' });
+    return Response.json({
+      ok: true,
+      delivered: false,
+      message: 'Demo validation passed. Connect an email provider or database before using this form in production.',
+    });
   } catch {
     return Response.json({ error: 'Invalid request.' }, { status: 400 });
   }
