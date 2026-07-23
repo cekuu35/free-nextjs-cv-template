@@ -9,7 +9,7 @@ A clean, minimal personal portfolio and CV starter built with **Next.js 15**, **
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/cekuu35/free-nextjs-cv-template) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-20--personal--cv.vercel.app-000?style=for-the-badge)](https://free-nextjs-cv-template.vercel.app) &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](./LICENSE)
 
 > **Free & MIT-licensed.** Use it for your own portfolio, personal or commercial — no attribution required.
-> Need a **business-site starting point**? **[Review all 20 verified demos](https://github.com/cekuu35/nextjs-website-templates#all-20-templates)** or **[get the current $79 bundle on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=free_cv_template)**.
+> Need a **business-site starting point**? **[Review all 20 verified demos](https://github.com/cekuu35/nextjs-website-templates#all-20-templates)** or **[get the current $79 bundle on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=free_cv_template)**.
 
 ---
 
@@ -150,7 +150,7 @@ Includes complete, deployable sites for:
 
 The separate bundle contains 20 responsive TypeScript, App Router, and Tailwind CSS starter sites. Review the checkout and included README files for the exact delivered versions, license scope, and integration requirements.
 
-**[Review the clean $79 bundle page](https://cekuu35.github.io/nextjs-template-bundle/)** · **[Get the current $79 bundle on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=free_cv_template)**
+**[Review the clean $79 bundle page](https://cekuu35.github.io/nextjs-template-bundle/)** · **[Get the current $79 bundle on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=free_cv_template)**
 
 Full showcase with live demos for all 20 templates:  
 **[github.com/cekuu35/nextjs-website-templates](https://github.com/cekuu35/nextjs-website-templates)**
